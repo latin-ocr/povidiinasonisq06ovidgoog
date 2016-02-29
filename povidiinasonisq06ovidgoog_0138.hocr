@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonisq06ovidgoog_0138.png"; bbox 0 0 2066 3012; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 218 769 785 900">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 218 769 785 902">
+     <span class='ocr_line' id='line_1_1' title="bbox 218 769 785 900; baseline 0.011 -6"><span class='ocrx_word' id='word_1_1' title='bbox 218 769 701 900; x_wconf 46' lang='lat' dir='ltr'><strong>Psovmn‘NAstls</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 779 806 785 825; x_wconf 66' lang='lat'>⁴</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 78 1015 966 1219">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 78 1015 966 1222">
+     <span class='ocr_line' id='line_1_2' title="bbox 78 1015 966 1219; baseline 0.003 -50"><span class='ocrx_word' id='word_1_3' title='bbox 78 1015 573 1219; x_wconf 56' lang='lat' dir='ltr'>A M&#39;0&#39;1z</span> <span class='ocrx_word' id='word_1_4' title='bbox 642 1069 966 1191; x_wconf 63' lang='lat' dir='ltr'>vjm&#39;t</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 306 1315 731 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 306 1315 731 1426">
+     <span class='ocr_line' id='line_1_3' title="bbox 306 1315 731 1426; baseline 0.028 -12"><span class='ocrx_word' id='word_1_5' title='bbox 306 1315 444 1416; x_wconf 70' lang='lat' dir='ltr'>num</span> <span class='ocrx_word' id='word_1_6' title='bbox 470 1355 607 1415; x_wconf 63' lang='lat' dir='ltr'>runt</span> <span class='ocrx_word' id='word_1_7' title='bbox 720 1333 731 1426; x_wconf 62' lang='lat' dir='ltr'><em>ss</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1038 3012">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1038 3012">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1038 3012; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1038 3012; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
